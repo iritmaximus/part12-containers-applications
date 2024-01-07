@@ -1,0 +1,14 @@
+Script started on 2024-01-07 22:37:10+02:00 [TERM="alacritty" TTY="/dev/pts/1" COLUMNS="141" LINES="50"]
+]0;martti@marttiX201:~/Sync/uni/fullstack/part12-containers-applications/script-answers[?2004h[martti@marttiX201 script-answers]$ docker run -it ubuntu bash
+[?2004ldocker: permission denied while trying to connect to the Docker daemon socket at unix:///var/run/docker.sock: Post "http://%2Fvar%2Frun%2Fdocker.sock/v1.24/containers/create": dial unix /var/run/docker.sock: connect: permission denied.
+See 'docker run --help'.
+]0;martti@marttiX201:~/Sync/uni/fullstack/part12-containers-applications/script-answers[?2004h[martti@marttiX201 script-answers]$ docker run -it ubuntu bash[1@s[1@u[1@o[1@ [1P[1P[C[1@d[1@o[1@ 
+[?2004l[sudo] password for martti: 
+[?2004h]0;root@750e72ba902e: /root@750e72ba902e:/# mkdir /usr/src/app
+[?2004l[?2004h]0;root@750e72ba902e: /root@750e72ba902e:/# touch /usr/src/app/index.js
+[?2004l[?2004h]0;root@750e72ba902e: /root@750e72ba902e:/# [Kexit
+[?2004lexit
+]0;martti@marttiX201:~/Sync/uni/fullstack/part12-containers-applications/script-answers[?2004h[martti@marttiX201 script-answers]$ exit
+[?2004lexit
+
+Script done on 2024-01-07 22:37:49+02:00 [COMMAND_EXIT_CODE="0"]
